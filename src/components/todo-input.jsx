@@ -45,6 +45,7 @@ function TodoInput() {
         <input
           className="w-full mt-8 border-2 border-[#FFA33C] rounded-md py-2 px-2"
           type="text"
+          placeholder="Input your todo..."
           value={todoInput}
           onChange={(e) => setTodoInput(e.target.value)}
         />
