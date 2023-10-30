@@ -39,7 +39,7 @@ function TodoInput() {
     <>
       <h1 className="font-bold text-3xl">
         <span className="text-[#FFA33C]">Todo App</span> with{" "}
-        <span className="text-[#C70039]">Redux</span>
+        <span className="text-[#C70039]">React Context</span>
       </h1>
       <form className="flex justify-between gap-2 items-end">
         <input
